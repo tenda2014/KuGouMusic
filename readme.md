@@ -4,7 +4,7 @@
 
 1.仿酷狗音乐播放效果
 
-[image](https://github.com/tenda2014/KuGouMusic/blob/master/doc_raw/jietu.png)
+![image](https://github.com/tenda2014/KuGouMusic/blob/master/doc_raw/jietu.png)
 
 项目参考自：
 https://github.com/zhaolewei/MusicVisualizer
