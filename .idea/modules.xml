@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AudioEffects.iml" filepath="$PROJECT_DIR$/AudioEffects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MusicVisualizer-master.iml" filepath="$PROJECT_DIR$/.idea/modules/MusicVisualizer-master.iml" group="MusicVisualizer-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MusicVisualizer-master-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MusicVisualizer-master-app.iml" group="MusicVisualizer-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mp3playerlib/MusicVisualizer-master-mp3playerlib.iml" filepath="$PROJECT_DIR$/.idea/modules/mp3playerlib/MusicVisualizer-master-mp3playerlib.iml" group="MusicVisualizer-master/mp3playerlib" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mp3playerlib/mp3playerlib.iml" filepath="$PROJECT_DIR$/mp3playerlib/mp3playerlib.iml" />
+    </modules>
+  </component>
+</project>
