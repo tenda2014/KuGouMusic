@@ -3,6 +3,7 @@
 ### 介绍
 
 1.仿酷狗音乐播放效果
+2.音乐播放频谱波形图效果
 
 ![image](https://github.com/tenda2014/KuGouMusic/blob/master/doc_raw/jietu.png)
 ![image](https://github.com/tenda2014/KuGouMusic/blob/master/doc_raw/kugou_jietu.png)
